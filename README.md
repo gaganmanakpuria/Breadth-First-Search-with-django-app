@@ -5,12 +5,16 @@ BFS is a traversing algorithm where you should start traversing from a selected 
 
 As the name BFS suggests, you are required to traverse the graph breadthwise as follows:
 
-!.First move horizontally and visit all the nodes of the current layer
+1.First move horizontally and visit all the nodes of the current layer
 2.Move to the next layer
 
-# required to run program (Installed programs in your pc)
+# Required to run program (Installed programs in your pc)
 1.Python
+
+
 2.django
+
+
 
 
 
